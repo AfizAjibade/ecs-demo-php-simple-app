@@ -4,7 +4,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Amazon ECS Deep Dive - Linux Academy</title>
+        <title>UCF Amazon ECS Demo</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="assets/css/bootstrap.min.css" rel="stylesheet">
         <style>body {margin-top: 40px; background-color: #333;}</style>
@@ -15,7 +15,7 @@
     <body>
         <div class="container">
             <div class="hero-unit">
-                <h1>Amazon ECS Deep Dive</h1>
+                <h1>Amazon ECS Demo</h1>
                 <h2>Version 1</h2>
                 <p>This application is now running on a container in Amazon ECS.</p>
                 <p>From here, you can commit a change to the Github repo. The CodePipeline will run and update the ECS cluster.</p>
